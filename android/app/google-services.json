@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "717894341373",
+    "firebase_url": "https://prince-pipes-384d5-default-rtdb.firebaseio.com",
+    "project_id": "prince-pipes-384d5",
+    "storage_bucket": "prince-pipes-384d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717894341373:android:bb91cea3246ab6a9cd2494",
+        "android_client_info": {
+          "package_name": "com.princepipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717894341373-njrop0t5oc92cb3j8b0e6bf4bvmdh6vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOjOsKtH9_ih_q8zpRjvbNN0uei6MXGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717894341373-njrop0t5oc92cb3j8b0e6bf4bvmdh6vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717894341373:android:a34d5174905e1811cd2494",
+        "android_client_info": {
+          "package_name": "com.princepipes.sfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717894341373-njrop0t5oc92cb3j8b0e6bf4bvmdh6vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOjOsKtH9_ih_q8zpRjvbNN0uei6MXGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717894341373-njrop0t5oc92cb3j8b0e6bf4bvmdh6vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
